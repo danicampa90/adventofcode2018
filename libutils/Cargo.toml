@@ -1,0 +1,6 @@
+[package]
+name = "libutils"
+version = "0.1.0"
+authors = ["dani campa <danicampa90@gmail.com>"]
+
+[dependencies]
