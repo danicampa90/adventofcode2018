@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "libutils"
+		},
+		{
+			"path": "day2"
 		}
 	],
 	"settings": {}
